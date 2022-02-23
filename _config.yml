@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+logo: /assets/img/lea-logo.png
 show_downloads: true
 github:
   repository_url: https://github.com/jku-win-se/Lea-xDSML/
