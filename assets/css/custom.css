@@ -18,3 +18,7 @@
    clear: both;
    display: table;
  }
+
+ #logo-complete {
+    width: 50%;    
+ }
