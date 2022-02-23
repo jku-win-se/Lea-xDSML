@@ -1,5 +1,5 @@
 ---
-title: MOMoT - Marrying Search-based Optimization and Model Transformation Technology
+title: LEA-xDSML - News
 layout: index
 ---
 news
