@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
-show_downloads: true
+markdown: kramdown
+encoding: UTF-8
+kramdown:
+  coderay_tab_width: 3
 github:
   repository_url: https://github.com/jku-win-se/Lea-xDSML/
