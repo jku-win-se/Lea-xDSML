@@ -6,7 +6,7 @@ layout: index
 <hr class="solid">
 
 <div class="row">
-    <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg"></img>
+    <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
 </div>
 
 <p>Past Members</p>
