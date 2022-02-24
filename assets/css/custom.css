@@ -35,5 +35,9 @@ hr.solid {
  }
 
  #manuel-photo{
-    width: 12%;
+    width: 30%;
+ }
+
+ .nomargin{
+   margin:0;
  }
