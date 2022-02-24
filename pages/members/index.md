@@ -7,9 +7,30 @@ layout: index
 
 <div class="row">
     <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
-    <span>Manuel Wimmer, PhD.</span>
-    <span>Team Leader, Full Profesor</span>
-    <a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a>
+    <p>Manuel Wimmer, PhD.</p>
+    <p>Team Leader, Full Profesor</p>
+    <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
+</div>
+
+<div class="row">
+    <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
+    <p>Manuel Wimmer, PhD.</p>
+    <p>Team Leader, Full Profesor</p>
+    <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
+</div>
+
+<div class="row">
+    <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
+    <p>Manuel Wimmer, PhD.</p>
+    <p>Team Leader, Full Profesor</p>
+    <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
+</div>
+
+<div class="row">
+    <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
+    <p>Manuel Wimmer, PhD.</p>
+    <p>Team Leader, Full Profesor</p>
+    <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
 </div>
 
 <p>Past Members</p>
