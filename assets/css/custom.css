@@ -25,6 +25,11 @@
  }
 
  /* Dashed border */
-hr.dashed {
-   border-top: 3px dashed rgb(0, 0, 0);
+hr.solid {
+   border-top: 3px solid rgb(0, 0, 0);
+   width: 50%;
+ }
+
+ div.block {
+   display:block;
  }
