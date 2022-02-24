@@ -2,4 +2,10 @@
 title: LEA-xDSML - Members
 layout: index
 ---
-Members
+<p>Current Members</p>
+<hr class="dashed">
+
+
+
+<p>Past Members</p>
+<hr class="dashed">

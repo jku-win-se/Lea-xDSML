@@ -23,3 +23,8 @@
     width: 60%;
     float: right;    
  }
+
+ /* Dashed border */
+hr.dashed {
+   border-top: 3px dashed rgb(0, 0, 0);
+ }
