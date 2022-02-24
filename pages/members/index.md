@@ -2,7 +2,7 @@
 title: LEA-xDSML - Members
 layout: index
 ---
-<p>**Current Members**</p>
+<p class="title-style">Current Members</p>
 <hr class="solid">
 
 <div class="row">
@@ -47,5 +47,5 @@ layout: index
     </div>
 </div>
 
-<p>**Past Members**</p>
+<p class="title-style">Past Members</p>
 <hr class="dashed">

@@ -45,3 +45,7 @@ hr.solid {
    margin:0px;
    padding: 0px;
  }
+
+ .title-style {
+   font-weight: bold;
+ }
