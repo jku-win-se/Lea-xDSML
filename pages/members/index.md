@@ -6,31 +6,45 @@ layout: index
 <hr class="solid">
 
 <div class="row">
-    <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
-    <p>Manuel Wimmer, PhD.</p>
-    <p>Team Leader, Full Profesor</p>
-    <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
+        <p>Manuel Wimmer, PhD.</p>
+        <p>Team Leader, Full Profesor</p>
+        <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
+    </div>
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
+        <p>Manuel Wimmer, PhD.</p>
+        <p>Team Leader, Full Profesor</p>
+        <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
+    </div>
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
+        <p>Manuel Wimmer, PhD.</p>
+        <p>Team Leader, Full Profesor</p>
+        <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
+    </div>
 </div>
 
 <div class="row">
-    <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
-    <p>Manuel Wimmer, PhD.</p>
-    <p>Team Leader, Full Profesor</p>
-    <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
-</div>
-
-<div class="row">
-    <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
-    <p>Manuel Wimmer, PhD.</p>
-    <p>Team Leader, Full Profesor</p>
-    <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
-</div>
-
-<div class="row">
-    <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
-    <p>Manuel Wimmer, PhD.</p>
-    <p>Team Leader, Full Profesor</p>
-    <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
+        <p>Manuel Wimmer, PhD.</p>
+        <p>Team Leader, Full Profesor</p>
+        <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
+    </div>
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
+        <p>Manuel Wimmer, PhD.</p>
+        <p>Team Leader, Full Profesor</p>
+        <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
+    </div>
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
+        <p>Manuel Wimmer, PhD.</p>
+        <p>Team Leader, Full Profesor</p>
+        <p><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
+    </div>
 </div>
 
 <p>Past Members</p>
