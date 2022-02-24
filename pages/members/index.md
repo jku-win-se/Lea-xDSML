@@ -17,7 +17,7 @@ layout: index
         </p>
     </div>
     <div class="column">
-        <img src="{{site.github.url}}/assets/img/antonio-photo.jpg" id="manuel-photo"/>
+        <img src="{{site.github.url}}/assets/img/antonio-photo.jpg" id="antonio-photo"/>
         <p class="nomargin">Antonio Garmendia, PhD.</p>
         <p class="nomargin">Researcher</p>
         <p class="nomargin">

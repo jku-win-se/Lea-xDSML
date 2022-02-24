@@ -35,8 +35,12 @@ hr.solid {
  }
 
  #manuel-photo{
-    width: 35%;
+  width: 35%;
  }
+
+ #antonio-photo{
+  width: 40%;
+}
 
  /*.main-content p {
   margin-bottom: 1em; }*/
