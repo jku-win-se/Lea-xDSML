@@ -10,27 +10,6 @@ layout: index
         <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
         <p class="nomargin">Manuel Wimmer, PhD.</p>
         <p class="nomargin">Team Leader, Full Profesor</p>
-        <p class="nomargin"><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
-    </div>
-    <div class="column">
-        <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
-        <p class="nomargin">Manuel Wimmer, PhD.</p>
-        <p class="nomargin">Team Leader, Full Profesor</p>
-        <p class="nomargin"><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
-    </div>
-    <div class="column">
-        <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
-        <p class="nomargin">Manuel Wimmer, PhD.</p>
-        <p class="nomargin">Team Leader, Full Profesor</p>
-        <p class="nomargin"><a>[Web]</a><a>[DBLP]</a><a>[Scholar]</a></p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="column">
-        <img src="{{site.github.url}}/assets/img/wimmer-photo.jpg" id="manuel-photo"/>
-        <p class="nomargin">Manuel Wimmer, PhD.</p>
-        <p class="nomargin">Team Leader, Full Profesor</p>
         <p class="nomargin">
             <a href="https://se.jku.at/manuel-wimmer/">[Web]</a>
             <a href="https://dblp.org/pid/20/4565.html">[DBLP]</a>
