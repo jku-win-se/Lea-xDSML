@@ -35,10 +35,11 @@ layout: index
     <div class="column">
         <img src="{{site.github.url}}/assets/img/tanja-photo.png" id="manuel-photo"/>
         <p class="nomargin">Tanja Mayerhofer, PhD.</p>
+        <p class="nomargin">Researcher</p>
         <p class="nomargin">
-            <a href="https://se.jku.at/manuel-wimmer/">[Web]</a>
-            <a href="https://dblp.org/pid/20/4565.html">[DBLP]</a>
-            <a href="https://scholar.google.com/citations?user=YZDY1psAAAAJ&hl=en">[Scholar]</a>
+            <a href="https://www.big.tuwien.ac.at/people/tanja-mayerhofer/">[Web]</a>
+            <a href="https://dblp.org/pid/116/6700.html">[DBLP]</a>
+            <a href="https://scholar.google.at/citations?user=WKUy4cQAAAAJ&hl=de">[Scholar]</a>
         </p>
     </div>
     <div class="column">
@@ -46,9 +47,9 @@ layout: index
         <p class="nomargin">Adel Ferdjoukh</p>
         <p class="nomargin">Researcher</p>
         <p class="nomargin">
-            <a href="https://se.jku.at/antonio-garmendia/">[Web]</a>
-            <a href="https://dblp.uni-trier.de/pid/151/0138.html">[DBLP]</a>
-            <a href="https://scholar.google.es/citations?user=inoqxM8AAAAJ&hl=es">[Scholar]</a>
+            <a href="https://www.adel-ferdjoukh.ovh/">[Web]</a>
+            <a href="https://dblp.org/pid/141/2018.html">[DBLP]</a>
+            <a href="https://scholar.google.fr/citations?user=KMJK2pUAAAAJ&hl=en">[Scholar]</a>
         </p>
     </div>    
 </div>
