@@ -33,7 +33,7 @@ layout: index
 
 <div class="row">
     <div class="column">
-        <img src="{{site.github.url}}/assets/img/tanja-photo.png" id="manuel-photo"/>
+        <img src="{{site.github.url}}/assets/img/tanja-photo.png" id="tanja-photo"/>
         <p class="nomargin">Tanja Mayerhofer, PhD.</p>
         <p class="nomargin">Researcher</p>
         <p class="nomargin">
@@ -43,7 +43,7 @@ layout: index
         </p>
     </div>
     <div class="column">
-        <img src="{{site.github.url}}/assets/img/adel-photo.png" id="antonio-photo"/>
+        <img src="{{site.github.url}}/assets/img/adel-photo.png" id="adel-photo"/>
         <p class="nomargin">Adel Ferdjoukh</p>
         <p class="nomargin">Researcher</p>
         <p class="nomargin">
