@@ -33,7 +33,7 @@ layout: index
 
 <div class="row">
     <div class="column">
-        <img src="{{site.github.url}}/assets/img/tanja-photo.jpg" id="manuel-photo"/>
+        <img src="{{site.github.url}}/assets/img/tanja-photo.png" id="manuel-photo"/>
         <p class="nomargin">Tanja Mayerhofer, PhD.</p>
         <p class="nomargin">
             <a href="https://se.jku.at/manuel-wimmer/">[Web]</a>
@@ -42,8 +42,8 @@ layout: index
         </p>
     </div>
     <div class="column">
-        <img src="{{site.github.url}}/assets/img/adel-photo.jpg" id="antonio-photo"/>
-        <p class="nomargin">Antonio Garmendia, PhD.</p>
+        <img src="{{site.github.url}}/assets/img/adel-photo.png" id="antonio-photo"/>
+        <p class="nomargin">Adel Ferdjoukh</p>
         <p class="nomargin">Researcher</p>
         <p class="nomargin">
             <a href="https://se.jku.at/antonio-garmendia/">[Web]</a>
