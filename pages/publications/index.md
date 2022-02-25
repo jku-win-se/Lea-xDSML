@@ -2,4 +2,4 @@
 title: LEA-xDSML - Publications
 layout: index
 ---
-Publications
+<h1>Publications</h1>

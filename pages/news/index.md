@@ -2,4 +2,4 @@
 title: LEA-xDSML - News
 layout: index
 ---
-news
+<h1>News</h1>
