@@ -27,7 +27,7 @@ layout: index
         </p>
     </div>  
     <div class="column">
-        <img src="{{site.github.url}}/assets/img/antonio-photo.jpg" id="loay-photo"/>
+        <img src="{{site.github.url}}/assets/img/loay-photo.jpg" id="loay-photo"/>
         <p class="nomargin">Loay Awad</p>
         <p class="nomargin">Student Researcher</p>
         <p class="nomargin">
@@ -63,7 +63,7 @@ layout: index
         </p>
     </div>  
      <div class="column">
-        <img src="{{site.github.url}}/assets/img/antonio-photo.jpg" id="dorian-photo"/>
+        <img src="{{site.github.url}}/assets/img/dorian-photo.jpg" id="dorian-photo"/>
         <p class="nomargin">Dorian Leroy</p>
         <p class="nomargin">PhD Student</p>
         <p class="nomargin">
