@@ -25,7 +25,17 @@ layout: index
             <a href="https://dblp.uni-trier.de/pid/151/0138.html">[DBLP]</a>
             <a href="https://scholar.google.es/citations?user=inoqxM8AAAAJ&hl=es">[Scholar]</a>
         </p>
-    </div>    
+    </div>  
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/antonio-photo.jpg" id="loay-photo"/>
+        <p class="nomargin">Loay Awad</p>
+        <p class="nomargin">Student Researcher</p>
+        <p class="nomargin">
+            <a href="https://se.jku.at/loay-awad/">[Web]</a>
+            <a>[DBLP]</a>
+            <a>[Scholar]</a>
+        </p>
+    </div>  
 </div>
 
 <h1>Past Members</h1>
@@ -50,6 +60,16 @@ layout: index
             <a href="https://www.adel-ferdjoukh.ovh/">[Web]</a>
             <a href="https://dblp.org/pid/141/2018.html">[DBLP]</a>
             <a href="https://scholar.google.fr/citations?user=KMJK2pUAAAAJ&hl=en">[Scholar]</a>
+        </p>
+    </div>  
+     <div class="column">
+        <img src="{{site.github.url}}/assets/img/antonio-photo.jpg" id="dorian-photo"/>
+        <p class="nomargin">Dorian Leroy</p>
+        <p class="nomargin">PhD Student</p>
+        <p class="nomargin">
+            <a href="https://d-leroy.github.io/">[Web]</a>
+            <a href="https://dblp.org/pid/211/0931.html">[DBLP]</a>
+            <a href="https://scholar.google.fr/citations?user=NWHGYBoAAAAJ&hl=en">[Scholar]</a>
         </p>
     </div>    
 </div>
