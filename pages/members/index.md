@@ -37,7 +37,7 @@ layout: index
         </p>
     </div>  
     <div class="column">
-        <img src="{{site.github.url}}/assets/img/dominik-photo.jpg" id="dominik-photo"/>
+        <img src="{{site.github.url}}/assets/img/dominik-photo.jpeg" id="dominik-photo"/>
         <p class="nomargin">Dominik Lamprecht</p>
         <p class="nomargin">Student Researcher</p>
         <p class="nomargin">
