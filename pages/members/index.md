@@ -36,6 +36,16 @@ layout: index
             <a>[Scholar]</a>
         </p>
     </div>  
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/dominik-photo.jpg" id="dominik-photo"/>
+        <p class="nomargin">Dominik Lamprecht</p>
+        <p class="nomargin">Student Researcher</p>
+        <p class="nomargin">
+            <a href="https://se.jku.at/dominik-lamprecht/">[Web]</a>
+            <a>[DBLP]</a>
+            <a>[Scholar]</a>
+        </p>
+    </div> 
 </div>
 
 <h1>Past Members</h1>
