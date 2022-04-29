@@ -2,7 +2,7 @@
 title: LEA-xDSML Web Page
 layout: index
 ---
-**LEA xDSML** is a research project concerned with language engineering methods for executable modeling languages. This project started in July 2018 at (TU Wien)[https://modelexecution.org/lea/]. In 2020 the project was moved to [https://se.jku.at/lea-language-engineering-for-analyzable-executable-dsmls/](Johannes Kepler University Linz (JKU)). Currently, it is carried out by the Software Engineering Department at JKU and funded by the Austrian Science Fund FWF. The project has started in July 2018 and will run for three years. 
+**LEA xDSML** is a research project concerned with language engineering methods for executable modeling languages. This project started in July 2018 at [TU Wien](https://modelexecution.org/lea/). In 2020 the project was moved to [https://se.jku.at/lea-language-engineering-for-analyzable-executable-dsmls/](Johannes Kepler University Linz (JKU)). Currently, it is carried out by the Software Engineering Department at JKU and funded by the Austrian Science Fund FWF. The project has started in July 2018 and will run for three years. 
 
 **Context**
 
