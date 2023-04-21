@@ -10,7 +10,7 @@ layout: index
      Stadler, M., Vierhauser, M., Garmendia, A., Wimmer, M. and  Cleland-Huang, J., 2022, May. Flexible Model-Driven Runtime Monitoring Support for Cyber-Physical Systems. <i>IEEE/ACM 44th International Conference on Software Engineering (ICSE) Poster</i>.
     </li>
     <li>
-     Khorram, F., Bousse, E., Garmendia, A., Mottu, J. M., Sunyé, G., and Wimmer, M., 2022, November. From Coverage Computation to Fault Localization: A Generic Framework for Domain-Specific Languages. <i>In Proceedings of the 15th ACM SIGPLAN International Conference on Software Language Engineering<i> (pp. 235-248).
+     Khorram, F., Bousse, E., Garmendia, A., Mottu, J. M., Sunyé, G., and Wimmer, M., 2022, November. From Coverage Computation to Fault Localization: A Generic Framework for Domain-Specific Languages. <i>In Proceedings of the 15th ACM SIGPLAN International Conference on Software Language Engineering</i> (pp. 235-248).
     </li>
 </ul>
 
