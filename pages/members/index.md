@@ -83,16 +83,6 @@ layout: index
         </p>
     </div>  
     <div class="column">
-        <img src="{{site.github.url}}/assets/img/loay-photo.jpg" id="loay-photo"/>
-        <p class="nomargin">Loay Awad</p>
-        <p class="nomargin">Student Researcher</p>
-        <p class="nomargin">
-            <a href="https://se.jku.at/loay-awad/">[Web]</a>
-            <a>[DBLP]</a>
-            <a>[Scholar]</a>
-        </p>
-    </div> 
-    <div class="column">
         <img src="{{site.github.url}}/assets/img/unknown-photo.jpg" id="lucian-photo"/>
         <p class="nomargin">Lucian Mayr</p>
         <p class="nomargin">Student Researcher</p>
@@ -112,4 +102,14 @@ layout: index
             <a>[Scholar]</a>
         </p>
     </div>   
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/loay-photo.jpg" id="loay-photo"/>
+        <p class="nomargin">Loay Awad</p>
+        <p class="nomargin">Student Researcher</p>
+        <p class="nomargin">
+            <a href="https://se.jku.at/loay-awad/">[Web]</a>
+            <a>[DBLP]</a>
+            <a>[Scholar]</a>
+        </p>
+    </div>
 </div>
