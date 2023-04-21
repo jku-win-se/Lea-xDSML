@@ -81,6 +81,16 @@ layout: index
             <a>[DBLP]</a>
             <a>[Scholar]</a>
         </p>
+    </div> 
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/felix-photo.jpg" id="felix-photo"/>
+        <p class="nomargin">Felix Gemeinhardt</p>
+        <p class="nomargin">Student Researcher</p>
+        <p class="nomargin">
+            <a href="https://se.jku.at/felix-gemeinhardt/">[Web]</a>
+            <a href="https://dblp.org/pid/299/2256.html">[DBLP]</a>
+            <a>[Scholar]</a>
+        </p>
     </div>   
 </div>
 
