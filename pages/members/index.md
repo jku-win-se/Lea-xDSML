@@ -72,16 +72,6 @@ layout: index
             <a href="https://scholar.google.fr/citations?user=KMJK2pUAAAAJ&hl=en">[Scholar]</a>
         </p>
     </div>  
-     <div class="column">
-        <img src="{{site.github.url}}/assets/img/dorian-photo.jpg" id="dorian-photo"/>
-        <p class="nomargin">Dorian Leroy</p>
-        <p class="nomargin">PhD Student</p>
-        <p class="nomargin">
-            <a href="https://d-leroy.github.io/">[Web]</a>
-            <a href="https://dblp.org/pid/211/0931.html">[DBLP]</a>
-            <a href="https://scholar.google.fr/citations?user=NWHGYBoAAAAJ&hl=en">[Scholar]</a>
-        </p>
-    </div>  
     <div class="column">
         <img src="{{site.github.url}}/assets/img/unknown-photo.jpg" id="lucian-photo"/>
         <p class="nomargin">Lucian Mayr</p>
@@ -112,4 +102,14 @@ layout: index
             <a>[Scholar]</a>
         </p>
     </div>
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/dorian-photo.jpg" id="dorian-photo"/>
+        <p class="nomargin">Dorian Leroy</p>
+        <p class="nomargin">PhD Student</p>
+        <p class="nomargin">
+            <a href="https://d-leroy.github.io/">[Web]</a>
+            <a href="https://dblp.org/pid/211/0931.html">[DBLP]</a>
+            <a href="https://scholar.google.fr/citations?user=NWHGYBoAAAAJ&hl=en">[Scholar]</a>
+        </p>
+    </div> 
 </div>
