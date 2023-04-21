@@ -35,6 +35,16 @@ layout: index
             <a>[DBLP]</a>
             <a>[Scholar]</a>
         </p>
+    </div>
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/radek-photo.jpeg" id="radek-photo"/>
+        <p class="nomargin">Radek Sindelar, PhD.</p>
+        <p class="nomargin">Researcher</p>
+        <p class="nomargin">
+            <a href="https://se.jku.at/radek-sindelar/">[Web]</a>
+            <a href="https://dblp.org/pid/55/2044.html">[DBLP]</a>
+            <a>[Scholar]</a>
+        </p>
     </div> 
 </div>
 
