@@ -102,6 +102,16 @@ layout: index
             <a>[Scholar]</a>
         </p>
     </div>   
+    <div class="column">
+        <img src="{{site.github.url}}/assets/img/unknown-photo.jpg" id="lucian-photo"/>
+        <p class="nomargin">Lucian Mayr</p>
+        <p class="nomargin">Student Researcher</p>
+        <p class="nomargin">
+            <a>[Web]</a>
+            <a>[DBLP]</a>
+            <a>[Scholar]</a>
+        </p>
+    </div> 
 </div>
 
 
