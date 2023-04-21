@@ -37,7 +37,7 @@ layout: index
         </p>
     </div>
     <div class="column">
-        <img src="{{site.github.url}}/assets/img/radek-photo.jpeg" id="radek-photo"/>
+        <img src="{{site.github.url}}/assets/img/radek-photo.jpg" id="radek-photo"/>
         <p class="nomargin">Radek Sindelar, PhD.</p>
         <p class="nomargin">Researcher</p>
         <p class="nomargin">
