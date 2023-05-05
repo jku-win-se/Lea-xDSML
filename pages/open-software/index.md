@@ -10,7 +10,7 @@ layout: index
     <h4>RL4MT:</h4> This project demonstrates the use of Reinforcement Learning (RL) methods for rule-orchestrated model transformations. In that matter, the MOMoT Framework is employed which represents problem domains by means of Ecore meta-models and problem instances as models to be optimized through executing graph transformation rules. The framework is extended by two different RL approaches, named value-based and policy-based, which portray alternative optimization methods to so far implemented metaheuristics for finding valuable rule compositions. The project includes case studies that primarily evaluate the RL agents against the Non-Dominated Sorting Algorithm (NSGA-II) and demonstrate the feasibility of RL methods for search-based model optimization.
     <a href="https://github.com/RL4MT/RL4MT">[RL4MT - Github Repository]</a>
 </li>
-
+<p></p>
 <li>
     <h4>Coverage for DSLs:</h4>  we propose a generic coverage computation and fault localization framework for DSLs. It is implemented as part of the GEMOC Studio.
     <a href="https://github.com/Faezeh-Kh/Coverage4DSLs">[Coverage for DSLs - Github Repository]</a>
