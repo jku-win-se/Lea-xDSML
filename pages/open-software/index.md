@@ -12,6 +12,11 @@ layout: index
 </li>
 
 <li>
+    <h4>Coverage for DSLs:</h4>  we propose a generic coverage computation and fault localization framework for DSLs. It is implemented as part of the GEMOC Studio.
+    <a href="https://github.com/Faezeh-Kh/Coverage4DSLs">[Coverage for DSLs - Github Repository]</a>
+</li>
+
+<li>
     <h4>CoQuaDe:</h4>  is a modeling language and design framework for quantum circuits. This language allow the definition of composite operators advocating a higher-level quantum algorithm design, together with automated code generation for the circuit execution. The proposed approach comes with a separation of the quantum operation definitions from the quantum circuit syntax, which allows for an independent design and the use of customized libraries.
     <a href="https://github.com/jku-win-se/composition-quantum-circuit">[CoQuaDe Github Repository]</a>
 </li>
