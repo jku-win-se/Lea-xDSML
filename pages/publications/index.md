@@ -12,6 +12,9 @@ layout: index
     <li>
      Khorram, F., Bousse, E., Garmendia, A., Mottu, J. M., Sunyé, G., and Wimmer, M., 2022, November. From Coverage Computation to Fault Localization: A Generic Framework for Domain-Specific Languages. <i>In Proceedings of the 15th ACM SIGPLAN International Conference on Software Language Engineering</i> (pp. 235-248).
     </li>
+    <li>
+    Muñoz, Paula, Javier Troya, Manuel Wimmer, and Gerti Kappel. "Revisiting Fault Localization Techniques for Model Transformations: Towards A Hybrid Approach." Journal of Object Technology 21, no. 4 (2022).
+    </li>
 </ul>
 
 <h2>2021</h2>
